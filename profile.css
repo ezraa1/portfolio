@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(208, 236, 211);
+}
 .navbar{
     margin-left: 50%;
     margin-bottom: 20px;
@@ -10,4 +13,26 @@
 }
 a:hover {
     background-color: lightgreen;
+}
+.prof{
+    margin-left: 30px;
+}
+.prof img{
+    height: 320px;
+    width: 300px;
+border-radius: 50%;
+}
+.prof .abt{
+    margin-left: 80px;
+}
+.prof .abt i{
+    padding: 10px;
+    
+}
+.bio{
+    
+float: right;
+width: 40%;
+margin-top: -35%;
+margin-right: 30%;
 }
