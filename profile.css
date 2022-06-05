@@ -103,7 +103,9 @@ font-size:20px;
   }
  
 form{
-    margin-left: 5%;
+    margin-left: 15%;
+    float: right;
+
 
 }
 form input{
@@ -111,4 +113,11 @@ form input{
     justify-content: space-between;
     
     margin-bottom: 20px;
+}
+footer button{
+    margin-left: 35%;
+border-radius: 30%;    
+padding: 20px;
+margin-top: -70px;
+float: right;
 }
