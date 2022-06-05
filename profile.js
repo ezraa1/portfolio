@@ -1,11 +1,11 @@
-const header = document.querySelector('.navbar');
+const navbar = document.querySelector('.navbar');
 
 window.onscroll = function() {
     var top = window.scrollY;
-    if(top >=100) {
-        header.classList.add('navbarDark');
+    if(top>=100) {
+        navbar.classList.add('navbarDark');
     }
     else {
-        header.classList.remove('navbarDark');
+        navbar.classList.remove('navbarDark');
     }
 }
