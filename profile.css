@@ -1,5 +1,6 @@
 body{
    background-color: rgb(219, 241, 220); 
+   margin-bottom: 30px;
    
 }
 .navbar{
@@ -100,13 +101,14 @@ font-size:20px;
 .cards1:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-  .navbarScroll.navbarDark {
-    background-color: black;
-}
+ 
 form{
     margin-left: 5%;
+
 }
 form input{
     padding-bottom: 20px;
     justify-content: space-between;
+    
+    margin-bottom: 20px;
 }
