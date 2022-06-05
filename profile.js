@@ -9,5 +9,5 @@
 //         navbar.classList.remove('navbarDark');
 //     }
 // }
-let text = ['Learn Basic Java Skill sets.','Design a web using HTML CSS & js.','Basic introduction to Software and Hardware.Operating Systems,Networking and Trouble-Shooting']
+let text = ["Learn Basic Java Skill sets.",'Design a web using HTML CSS & js.','Basic introduction to Software and Hardware.Operating Systems,Networking and Trouble-Shooting']
 document.getElementById("cert").innerHTML = text;
